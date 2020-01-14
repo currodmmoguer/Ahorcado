@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from random import randint
+import random
 
 
 # La imagen que se ve del ahorcado por cada fallo
